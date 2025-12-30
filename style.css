@@ -1,0 +1,9 @@
+:root{
+    --background : blue;
+    --textcolor: red;
+
+}
+.xyz{
+    display: flex;
+    flex-direction: column;
+}
